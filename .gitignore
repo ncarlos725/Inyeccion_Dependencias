@@ -1,0 +1,61 @@
+﻿# Ignora los archivos generados por Visual Studio
+.vscode/
+bin/
+obj/
+
+# Ignora los archivos de paquetes de NuGet
+packages/
+
+# Ignora los archivos de usuario y configuración específicos
+*.suo
+*.user
+*.sln.docstates
+
+# Ignora archivos de respaldo y copias de seguridad
+*~
+*.bak
+
+# Ignora archivos de registro y archivos de volcado
+*.log
+*.log.*
+*.swp
+*.swo
+*.out
+
+# Ignora archivos de caché y carpetas de caché
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg][Ss]/
+[Ll][Ii][Bb]/
+[Nn][Oo][Dd][Ee][Mm][Oo][Dd][Uu][Ll][Ee][Ss]/
+[Tt][Ee][Ss][Tt][Rr][Ee][Ss][Uu][Ll][Tt][Ss]/
+[Bb][Uu][Ii][Ll][Dd][Ss]/
+
+# Ignora los archivos de usuario específicos de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignora la carpeta de caché de Rider (IDE de JetBrains)
+.idea/
+*.sln.iml
+workspace.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# Ignora archivos de configuración local
+.vs2019/
+.vs2017/
+.vs2015/
+.vscode/
+
